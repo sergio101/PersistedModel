@@ -1,0 +1,14 @@
+{
+	"category" : "PersistedObject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sergioruiz 3/5/2015 21:27",
+	"instvars" : [
+		 ],
+	"name" : "PersistedObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
