@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"Database" ],
 	"commentStamp" : "sergioruiz 3/5/2015 21:27",
 	"instvars" : [
 		 ],

@@ -1,5 +1,6 @@
 as yet unclassified
 Database
+	
 	Database isNil
-		ifTrue: [ ^ OrderedCollection new ].
+		ifTrue: [ Database := OrderedCollection new ].
 	^ Database
