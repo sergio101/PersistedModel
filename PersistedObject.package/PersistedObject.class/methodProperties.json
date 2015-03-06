@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"Database" : "sergioruiz 3/5/2015 21:34",
-		"add:" : "sergioruiz 3/5/2015 21:35" },
+		"add:" : "sergioruiz 3/5/2015 21:35",
+		"findBy:withValue:" : "sergioruiz 3/5/2015 23:55" },
 	"instance" : {
 		 } }
