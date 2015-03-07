@@ -1,3 +1,3 @@
 as yet unclassified
 findBy: aKey withValue: aValue
-	^ self Database detect: [ :u | u aKey asMutator == aValue ] ifNone: [ nil ]
+	^ self Database detect: [ :u | (u perform: (aKey)) == aValue ] ifNone: [ nil ]
