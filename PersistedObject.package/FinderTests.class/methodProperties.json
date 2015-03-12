@@ -2,9 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "sergioruiz 3/6/2015 01:02",
-		"tearDown" : "sergioruiz 3/6/2015 00:49",
-		"testSingleFinder" : "sergioruiz 3/6/2015 23:59",
+		"setUp" : "sergioruiz 3/11/2015 20:48",
+		"tearDown" : "sergioruiz 3/11/2015 21:16",
+		"testPersistence" : "sergioruiz 3/11/2015 20:47",
+		"testSingleFinder" : "sergioruiz 3/11/2015 21:17",
+		"track" : "sergioruiz 3/11/2015 20:46",
+		"track:" : "sergioruiz 3/11/2015 20:46",
 		"user" : "sergioruiz 3/6/2015 00:03",
 		"user:" : "sergioruiz 3/6/2015 00:03",
 		"userCount" : "sergioruiz 3/6/2015 00:07",

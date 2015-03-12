@@ -1,6 +1,6 @@
 as yet unclassified
 setUp
-	user := User new.
-	user userId: 123.
-	User Database add: user.
+	self user: User new.
+	self user userId: 123.
+	User Database add: self user.
 	userCount := User Database size.
